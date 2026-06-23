@@ -166,12 +166,11 @@ jupyter notebook Task4_InsuranceClaimPrediction.ipynb
 
 ## 🧰 Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| **Python 3.x** | Core programming language |
-| **pandas** | Data loading, cleaning, and manipulation |
-| **numpy** | Numerical computations |
-| **matplotlib** | Base plotting and chart customisation |
-| **seaborn** | Statistical visualisations (heatmap, boxplots) |
-| **scikit-learn** | Label Encoding, StandardScaler, Linear Regression, MAE, RMSE, R² |
-| **Jupyter Notebook** | Interactive development and presentation environment |
+## 🛠️ Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Models-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualisation-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)

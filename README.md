@@ -83,23 +83,23 @@ The following visualisations were produced to understand the data before modelli
 
 ### Visualizations
 
-![Charges Distribution](Images/plot1_charges_distribution.png)
+![Charges Distribution](Medical-Insurance-Claim-Prediction/Images/plot1_charges_distribution.png)
 
-![BMI vs Charges](Images/plot2_bmi_vs_charges.png)
+![BMI vs Charges](Medical-Insurance-Claim-Prediction/Images/plot2_bmi_vs_charges.png)
 
-![Age vs Charges](Images/plot3_age_vs_charges.png)
+![Age vs Charges](Medical-Insurance-Claim-Prediction/Images/plot3_age_vs_charges.png)
 
-![Smoking Impact](Images/plot4_smoking_impact.png)
+![Smoking Impact](Medical-Insurance-Claim-Prediction/Images/plot4_smoking_impact.png)
 
-![Correlation Heatmap](Images/plot5_correlation_heatmap.png)
+![Correlation Heatmap](Medical-Insurance-Claim-Prediction/Images/plot5_correlation_heatmap.png)
 
-![Charges by Region](Images/plot6_charges_by_region.png)
+![Charges by Region](Medical-Insurance-Claim-Prediction/Images/plot6_charges_by_region.png)
 
-![Feature Coefficients](Images/plot7_coefficients.png)
+![Feature Coefficients](Medical-Insurance-Claim-Prediction/Images/plot7_coefficients.png)
 
-![Actual vs Predicted](Images/plot8_actual_vs_predicted.png)
+![Actual vs Predicted](Medical-Insurance-Claim-Prediction/Images/plot8_actual_vs_predicted.png)
 
-![Residual Analysis](Images/plot9_residuals.png)
+![Residual Analysis](Medical-Insurance-Claim-Prediction/Images/plot9_residuals.png)
 
 **Key EDA Findings:**
 - Charges are **right-skewed** most patients pay low amounts, but a small group (mainly smokers) pay very high
